@@ -1,0 +1,3 @@
+template-file-path: templates/aws-refarch-wordpress-master-newvpc.yaml
+parameters: {}
+tags: {}
